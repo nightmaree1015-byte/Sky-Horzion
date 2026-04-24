@@ -1,0 +1,15 @@
+{
+  "name": "sky-horizon",
+  "version": "1.0.0",
+  "description": "A Discord bot called Sky Horizon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
